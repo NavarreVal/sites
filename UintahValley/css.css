@@ -1,0 +1,46 @@
+
+
+h1 {
+background-color: black;
+color: white;
+text-align: center;
+}
+
+body {
+line-height: 30px;
+background-color: green;
+float: left;
+padding: 5px;
+}
+
+p {
+font-family: Arial;
+font-size: 1.5em;
+float: left;
+}
+
+footer {
+background-color: black;
+color: white;
+clear: both;
+text-align: center;
+padding: 5px;
+}
+
+.imgButton {
+    position: relative;
+    text-align: center;
+    float: inherit;
+}
+
+.coin {
+    position: relative;
+    float: center;
+    display: none;
+}
+
+.imgButton h2 {
+    position: absolute;
+    text-align: center;
+    float: none;
+}

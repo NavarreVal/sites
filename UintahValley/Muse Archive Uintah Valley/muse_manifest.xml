@@ -1,0 +1,42 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://ftp.navarreval.com" ftp_rootfolder="/public_html/UintahValley.com" exportTarget="FTP" resolutions="1x" timestamp="1429296057375">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="4024732508" ref="index"/>
+    <file name="iefonts_index.css" crc="309350119" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
+    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
+    <file name="webpro.js" crc="220831917" ref="index"/>
+    <file name="form_check.php" crc="218543696" ref="index"/>
+    <file name="form_throttle.php" crc="3988545917" ref="index"/>
+    <file name="form_process.php" crc="4264751530" ref="index"/>
+    <file name="form-u1621.php" crc="4118586131" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkgd.jpg" crc="3863238255" ref="index"/>
+    <file name="u1327-4.png" crc="3898434080" ref="index"/>
+    <file name="u1325-4.png" crc="3900547399" ref="index"/>
+    <file name="u1324-4.png" crc="312763112" ref="index"/>
+    <file name="u436-4.png" crc="170769680" ref="index"/>
+    <file name="u434-4.png" crc="3881208235" ref="index"/>
+    <file name="u435-4.png" crc="533697967" ref="index"/>
+    <file name="u438-4.png" crc="4121894735" ref="index"/>
+    <file name="mtnmid.png" crc="4024614390" ref="index"/>
+    <file name="pillar.png" crc="58959271" ref="index"/>
+    <file name="gmamrk.jpg" crc="519607853" ref="index"/>
+    <file name="ctfrn-crop-u444.jpg" crc="485135841" ref="index"/>
+    <file name="coverage1_edited-1.jpg" crc="3918814315" ref="index"/>
+    <file name="mtnfront-crop-u152.png" crc="291698756" ref="index"/>
+    <file name="locks.jpg" crc="359863995" ref="index"/>
+    <file name="skyrim.jpg" crc="505460859" ref="index"/>
+    <file name="u1627-17.png" crc="311828129" ref="index"/>
+    <file name="u1627-17-r.png" crc="3844863548" ref="index"/>
+    <file name="u1627-17-m.png" crc="446077895" ref="index"/>
+    <file name="u1627-17-fs.png" crc="51175883" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4074505859" mt="1429296019215" redirect="true"/>
+</manifest>
